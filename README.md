@@ -4,7 +4,7 @@
 This Tableau project analyzes store performance for a laundry pick-up service startup operating in 150 locations, including 10 newly opened stores. The analysis compares the performance of two sales regions and identifies which new stores have the best potential for further marketing investment.
 
 ## Objectives
-- Implemented a strategic approach to store analysis by **classifying stores into two regions** and using Tableau for performance comparison.
+- Implementing a strategic approach to store analysis by **classifying stores into two regions** and using Tableau for performance comparison.
 - Compare **Average Revenue**, **Average Marketing Spend**, and **Return on Marketing Investment (ROMI)** between the two sales regions.
 - Identify **top-performing new stores** for strategic marketing investment.
   
