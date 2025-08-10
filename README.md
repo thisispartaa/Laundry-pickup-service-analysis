@@ -21,7 +21,13 @@ This Tableau project analyzes store performance for a laundry pick-up service st
    - Incorporated **population data** into clustering for deeper insights.
    - Conducted **trend line analysis** to quantify revenue generated per marketing dollar in each cluster.
    - Identified the **top three revenue-generating stores per marketing dollar spent**.
-   
+
+## Dashboard
+View the live Tableau dashboard here: [**Tableau Public Link**](https://public.tableau.com/app/profile/parth.milind.bhingarde/viz/CaseStudyLaundry/DevicePreviewDash)
+
+## Report
+Read the full project report here: [**Google Docs Report**](https://drive.google.com/file/d/1OXEAGd_BVQna-yE00EoK_BkkpJDMKiHK/view?usp=drive_link)
+
 ## Key Findings
 - **Region 1** outperforms Region 2 with higher average revenue, lower marketing spend, and higher ROMI.
 - K-means clustering revealed three performance groups:
@@ -34,12 +40,6 @@ This Tableau project analyzes store performance for a laundry pick-up service st
 - **Tableau** – Data visualization and dashboard development.
 - **Excel / CSV** – Data cleaning and preparation.
 - **K-means Clustering & Trend Line Analysis** – For performance segmentation.
-
-## Dashboard
-View the live Tableau dashboard here: [**Tableau Public Link**](https://public.tableau.com/app/profile/parth.milind.bhingarde/viz/CaseStudyLaundry/DevicePreviewDash)
-
-## Report
-Read the full project report here: [**Google Docs Report**](https://drive.google.com/file/d/1OXEAGd_BVQna-yE00EoK_BkkpJDMKiHK/view?usp=drive_link)
 
 ## Conclusion
 Focusing marketing budgets on blue-cluster stores—especially newly opened ones—can maximize revenue returns. The analysis demonstrates the value of combining **geographical segmentation, clustering, and ROI-based trend line evaluation** for data-driven marketing strategies.
